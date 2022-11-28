@@ -4,3 +4,5 @@ fd is in shape
 deployment5 created
 free is good
 deployment4
+tested and approved
+echo Approved
